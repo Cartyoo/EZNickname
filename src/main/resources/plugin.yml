@@ -1,0 +1,4 @@
+name: EZNickname
+version: '${project.version}'
+main: xyz.herberto.eznickname.EZNickname
+api-version: '1.20'
